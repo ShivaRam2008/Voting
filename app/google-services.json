@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481408166128",
+    "firebase_url": "https://e-voting-74058.firebaseio.com",
+    "project_id": "e-voting-74058",
+    "storage_bucket": "e-voting-74058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481408166128:android:61cb3df0dd0b4f8a",
+        "android_client_info": {
+          "package_name": "com.example.shiva.voting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481408166128-5kmtgq3o6lkabn19d8j1ac0vidkt4c30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxqGdx42YD2PVyCJBpU9XC-k6rVv-hbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
